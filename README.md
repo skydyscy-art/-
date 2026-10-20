@@ -3,6 +3,23 @@
 为《Slay the Spire 2》添加可玩角色「胡桃」（往生堂第七十七代堂主）的原创 Mod。
 基于社区模组库 [BaseLib](https://github.com/Alchyr/BaseLib-StS2) 开发，美术素材为 AI 原创生成（手绘暗黑奇幻风），不含任何游戏内部素材。
 
+## 下载与安装（玩家）
+
+1. 到本仓库的 **Releases** 页面下载最新的 `HuTaoMod-vX.Y.Z.zip`
+2. 安装前置 **BaseLib 3.4.7+**（[Releases](https://github.com/Alchyr/BaseLib-StS2/releases)）
+3. 把压缩包里的 `HuTaoMod` 文件夹解压到 `Slay the Spire 2/mods/`
+4. 启动游戏，在角色选择里选「胡桃」
+
+> 也可以下载带前置的一体包（`*-含BaseLib.zip`），把这一个包里的 `BaseLib` 和 `HuTaoMod` 一起放进 `mods/` 即可。
+
+
+## 许可与声明
+
+- 代码与文档以 [Apache License 2.0](LICENSE) 授权。
+- 角色「胡桃」及相关设定、名称版权归米哈游（HoYoverse / miHoYo）所有。
+  本项目是非商业的玩家二创作品，未使用《Slay the Spire 2》或《原神》的任何原始美术素材，**请勿用于商业用途**。
+
+
 ## 内容一览
 
 | 类型 | 数量 | 内容 |
@@ -154,15 +171,6 @@
 | 大红大紫 | 2 | 技能 | 烧血 | 失去 3 点生命，抽 3 张牌（+1→4） |
 | 七星棺椁 | 2 | 技能 | 烧血 | 失去 5 点生命，获得 18 点护甲（+8→26） |
 | 阴阳两界 | 1 | 技能 | 烧血 | 失去一半生命，获得 2 点能量，抽 2 张牌（+1→3） |
-
-## 下载与安装（玩家）
-
-1. 到本仓库的 **Releases** 页面下载最新的 `HuTaoMod-vX.Y.Z.zip`
-2. 安装前置 **BaseLib 3.4.7+**（[Releases](https://github.com/Alchyr/BaseLib-StS2/releases)）
-3. 把压缩包里的 `HuTaoMod` 文件夹解压到 `Slay the Spire 2/mods/`
-4. 启动游戏，在角色选择里选「胡桃」
-
-> 也可以下载带前置的一体包（`*-含BaseLib.zip`），把这一个包里的 `BaseLib` 和 `HuTaoMod` 一起放进 `mods/` 即可。
 
 ## 目录结构
 
