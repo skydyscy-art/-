@@ -1,0 +1,14 @@
+﻿{
+  "id": "HuTaoMod",
+  "name": "胡桃 - Hu Tao",
+  "author": "Trae & 邵琦哲",
+  "description": "往生堂七十七代堂主胡桃参上！以生命为薪、以蝶为引的可玩角色。基于 BaseLib 制作。/ Playable Hu Tao character from Genshin Impact, built on BaseLib. HP-spending archery of butterflies and Blood Blossom.",
+  "version": "v1.0.0",
+  "min_game_version": "0.107.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {"id": "BaseLib", "min_version": "3.4.7"}
+  ],
+  "affects_gameplay": true
+}

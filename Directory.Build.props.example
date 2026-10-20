@@ -1,0 +1,12 @@
+<Project>
+    <PropertyGroup>
+        <!-- 复制本文件为 Directory.Build.props 后，把下面两个路径改成你自己机器上的路径。 -->
+
+        <!-- MegaDot / Godot 4.5.1 mono 可执行文件路径（发布时用它导出 .pck）
+             下载：https://megadot.megacrit.com -->
+        <GodotPath>C:/megadot/Godot_v4.5.1-stable_mono_win64/Godot_v4.5.1-stable_mono_win64.exe</GodotPath>
+
+        <!-- 游戏安装目录。若 Steam 装在默认位置，可留空让 Sts2PathDiscovery.props 自动探测 -->
+        <!-- <Sts2Path>D:/SteamLibrary/steamapps/common/Slay the Spire 2</Sts2Path> -->
+    </PropertyGroup>
+</Project>

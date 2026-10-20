@@ -1,0 +1,83 @@
+﻿BigRedBigPurple            X   Skill   Cards=1                                抽X+1张牌。还阳X张牌。获得1点能量。
+BloodAsGuide               0   Attack  Damage=8                               失去2点生命。造成{Damage}点伤害。
+BloodBlossomRite           0   Skill   BloodBlossom=3                         施加{BloodBlossomPower}层血梅香。
+BloodContract              0   Skill   Energy=2                               失去3点生命。获得{Energy}点能量。
+BloodFeastFinale           2   Attack  Damage=18                              失去4点生命。造成{Damage}点伤害。若击杀目标，还阳3张牌。
+BoneReturnHome             2   Attack  Damage=16                              造成{Damage}点伤害。若击杀目标，将本卡还阳至抽牌堆顶。
+BurningFlesh               3   Power   BurningFlesh=3                         回合开始失去1点生命，获得{BurningFleshPower}层轮回。
+ButterfliesPlayPlum        1   Skill   BloodBlossom=2                         对所有敌人施加{BloodBlossomPower}层血梅香。获得1层轮回。
+ButterflyFirePrairie       2   Attack  Damage=12                              失去3点生命。对所有敌人造成{Damage}点伤害并施加2层血梅香。
+ButterflyGuard             2   Skill   Block=14                               获得{Block}点格挡。还阳1张牌。
+ButterflyGuideSoulHome     1   Attack  Damage=8                               造成{Damage}点伤害。还阳3张牌。
+ButterflySlumber           1   Skill   Block=7 Cards=1                        获得{Block}点格挡。抽{Cards}张牌。
+ButterflyTeasesWitheredPlum 0   Attack  Damage=5                               造成{Damage}点伤害。若目标有4层以上血梅香，还阳1张牌。
+ButterflyThousandNights    2   Skill   BloodBlossom=3                         对所有敌人施加{BloodBlossomPower}层血梅香。获得2层轮回。
+ButterflyWaltz             1   Attack  Damage=3                               造成{Damage}点伤害2次。还阳1张牌。
+CandleTears                0   Skill   Block=4                                获得{Block}点格挡。获得2层轮回。
+CoffinShopRoutine          1   Skill   Cards=1                                获得3层轮回。抽{Cards}张牌。
+CondensedFlameBlossom      1   Attack  Damage=5                               造成{Damage}点伤害。消耗目标2层血梅香，每层造成3点伤害。
+CrimsonBloom               1   Attack  Damage=9                               造成{Damage}点伤害。若目标有6层以上血梅香，获得2层轮回。
+CrimsonBurstGrandBloom     1   Attack  Damage=5                               消耗目标全部血梅香，每层造成{Damage}点伤害。
+CrimsonPlumSpring          2   Attack  Damage=12                              造成{Damage}点伤害。目标每有2层血梅香，额外造成1点伤害。
+DestinyFulfilled           1   Skill   Heal=5                                 回复{Heal}点生命。每个带血梅香的敌人额外回复2点。
+DirectorMarch              2   Attack  Damage=14                              造成{Damage}点伤害。若生命不高于一半，额外造成6点伤害。
+FateJourney                1   Skill   Cards=2                                抽{Cards}张牌。
+FeastEnds                  1   Skill   Block=10                               失去3点生命。获得{Block}点格挡。抽1张牌。
+FightUntoDeath             3   Power   FightUntoDeath=4                       生命不高于一半时，你的攻击每段额外造成{FightUntoDeathPower}点伤害。
+FirewoodPassesOn           2   Skill   Cards=3 Energy=2                       失去4点生命。抽{Cards}张牌。获得{Energy}点能量。
+FlameButterflyWild         2   Attack  Damage=9                               对所有敌人造成{Damage}点伤害并施加1层血梅香。
+FlickeringCandle           0   Skill   Cards=2                                抽{Cards}张牌。
+FloatingScent              1   Skill   BloodBlossom=3                         施加{BloodBlossomPower}层血梅香。还阳1张牌。
+FlowerButterflyDance       1   Attack  Damage=8                               造成{Damage}点伤害。若目标有4层以上血梅香，获得2层轮回。
+FlowerOpensParamita        1   Skill   BloodBlossom=3                         施加{BloodBlossomPower}层血梅香。抽1张牌。
+FragranceEverlasting       3   Power   FragranceEverlasting=1                 灵不会因打出而消失。
+FuneralCountermeasure      1   Attack  Damage=7                               造成{Damage}点伤害。若目标有6层以上血梅香，还阳2张牌并抽1张牌。
+FuneralDoctrine            1   Power   ButterflyWisp=1                        每回合开始时，对随机敌人施加{BloodBlossomPower}层血梅香。
+FuneralRite                1   Skill   Damage=3                               消耗目标2层血梅香，每层造成{Damage}点伤害。若目标不再有血梅香，还阳2张牌。
+GhostButterflyLantern      3   Power   GhostButterflyLantern=2                回合开始给所有敌人施加{GhostButterflyLanternPower}层血梅香，并获得1层轮回。
+GhostButterflySpirit       2   Power   ButterflyWisp=2                        每回合开始时，对随机敌人施加{ButterflyWispPower}层血梅香。
+GhostGateOpen              1   Skill   BloodBlossom=2                         对所有敌人施加{BloodBlossomPower}层血梅香。
+GhostlyVisit               1   Attack  Damage=7                               造成{Damage}点伤害。抽1张牌。
+GrandOpening               0   Skill   Block=5                                获得{Block}点格挡。
+GuideToAfterlife           1   Skill   Cards=1 BloodBlossom=3                 失去2点生命。施加{BloodBlossomPower}层血梅香。抽{Cards}张牌。
+HuTaoDefend                1   Skill   Block=5                                获得{Block}点护甲。
+HuTaoStrike                1   Attack  Damage=6                               造成{Damage}点伤害。
+IncenseSacrifice           X   Skill   BloodBlossom=1                         失去X点生命。对所有敌人施加X层血梅香。获得X层轮回。
+IronPlumHeart              1   Power   IronPlumHeart=4                        每回合开始时获得{IronPlumHeartPower}点格挡。
+LampDryingOut              1   Skill   Cards=2 Energy=1                       失去3点生命。抽{Cards}张牌。获得{Energy}点能量。
+LifeDeathEdge              1   Power   LifeDeathEdge=3                        生命不高于一半时，回合开始获得{LifeDeathEdgePower}层轮回。
+MajesticRule               2   Power   MajesticRule=1                         回合结束时，若轮回至少3层，抽{MajesticRulePower}张牌。
+MidnightGhostButterfly     0   Attack  Damage=4                               造成{Damage}点伤害。
+MorningDew                 0   Skill   Cards=2                                抽{Cards}张牌。
+MyBodyAsFirewood           2   Power   MyBodyAsFirewood=2                     回合开始失去1点生命，获得{MyBodyAsFirewoodPower}层轮回。
+NightProwl                 1   Attack  Damage=6                               造成{Damage}点伤害。若目标有血梅香，抽1张牌。
+OfferingTribute            1   Skill   BloodBlossom=3                         失去2点生命。施加{BloodBlossomPower}层血梅香。获得1点能量。
+ParamitaGuard              1   Skill   Block=8                                获得{Block}点格挡。还阳1张牌。
+ParamitaReturn             2   Power   ParamitaReturn=1                       你的攻击每段额外施加{ParamitaReturnPower}层血梅香。
+ParlorDirectory            1   Skill   Cards=1                                还阳2张牌。抽{Cards}张牌。
+PlumPrelude                1   Skill   BloodBlossom=2                         施加{BloodBlossomPower}层血梅香。若目标有4层以上血梅香，抽2张牌。
+PlumsAfterSnow             1   Skill   BloodBlossom=2                         对所有敌人施加{BloodBlossomPower}层血梅香。抽1张牌。
+PlumScentDash              1   Attack  Damage=7                               造成{Damage}点伤害。抽1张牌。
+PlumScentInBone            0   Skill   BloodBlossom=2                         施加{BloodBlossomPower}层血梅香。若目标有6层以上血梅香，还阳1张牌。
+PlumShadowRed              1   Attack  Damage=4                               造成{Damage}点伤害2次，每次施加1层血梅香。还阳1张牌。
+PlumShadows                1   Skill   Block=7 Cards=2                        获得{Block}点格挡。抽{Cards}张牌。
+PlumSnowGatherScatter      X   Skill   BloodBlossom=1                         对目标施加X层血梅香。若目标有6层以上血梅香，还阳X张牌。
+RazorBlossom               2   Power   RazorBlossom=3                         攻击带血梅香的目标时，每段额外造成{RazorBlossomPower}点伤害。
+RebirthArt                 2   Attack  Damage=10                              造成{Damage}点伤害。若击杀目标，还阳4张牌、抽2张牌并获得1点能量。
+ScentFullBosom             1   Skill   Block=4 BloodBlossom=2                 施加{BloodBlossomPower}层血梅香。获得{Block}点格挡。
+SevenStarCoffin            X   Skill   Block=4                                获得4X点格挡。若X大于等于3，额外获得X层轮回。
+SoulComfort                2   Power   SoulComfort=2                          回合开始：生命不高于一半时回复3点生命，否则获得{SoulComfortPower}层轮回。
+SoulSettling               1   Skill   Heal=5                                 回复{Heal}点生命。
+SpiritScatter              2   Attack  Damage=10                              造成{Damage}点伤害。消耗目标全部血梅香，每层造成2点伤害。
+SpiritSoother              2   Attack  Heal=10                                回复{Heal}点生命。生命高于一半时改为获得等量格挡。
+StartledPlumSwan           1   Attack  Damage=6                               造成{Damage}点伤害2次。若目标有4层以上血梅香，改为3次。
+StoneSplittingForce        1   Attack  Damage=6                               造成{Damage}点伤害2次。
+StrangerStayAway           1   Power   StrangerStayAway=1                     本回合还阳过时，每打出一张牌获得{StrangerStayAwayPower}层轮回。
+StrictPlumRule             1   Skill   Block=8                                获得{Block}点格挡。
+ThousandButterflyFlap      1   Attack  Damage=2                               造成{Damage}点伤害3次。还阳2张牌。
+ThousandCrimsonBlossoms    X   Attack  Damage=2                               引爆所有敌人，每层造成{Damage}点伤害。每引爆1个敌人获得X层轮回。
+UnbeatableTenThousand      3   Power   Unbeatable=2                           回合结束时，若轮回至少3层，抽1张牌并获得{UnbeatablePower}层轮回。
+UntoDeath                  2   Power   UntoDeath=2                            生命不高于一半时，回合开始给所有敌人施加{UntoDeathPower}层血梅香。
+WildSlaughter              2   Attack  Damage=5                               造成{Damage}点伤害，重复目标血梅香层数次（最多4次）。
+YinYangKeyDoctrine         1   Power   YinYangKey=2                           生命高于一半时给随机敌人施加{YinYangKeyPower}层血梅香；否则获得{YinYangKeyPower}层轮回。
+YinYangTwoRealms           1   Skill   Energy=1 BloodBlossom=4                失去3点生命。施加{BloodBlossomPower}层血梅香。获得{Energy}点能量。

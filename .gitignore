@@ -1,0 +1,28 @@
+# Godot 导入缓存 / 备份
+.godot/
+.godot_bak/
+build/
+
+# .NET
+bin/
+obj/
+*.user
+local.props
+
+# 本机构建配置（含本机绝对路径）：请复制 Directory.Build.props.example 后自行填写
+Directory.Build.props
+
+# 打包产物、日志
+dist/
+*.zip
+*.log
+
+# IDE
+.vs/
+.idea/
+*.suo
+*.DotSettings.user
+
+# 系统
+.DS_Store
+Thumbs.db

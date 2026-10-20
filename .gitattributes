@@ -1,0 +1,15 @@
+# 统一行尾，避免 Windows/Linux 互改产生的噪音
+* text=auto
+
+# 二进制素材，禁止行尾转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.pck binary
+*.dll binary
+*.pdb binary
+*.zip binary
+*.ttf binary
+*.ogg binary
+*.wav binary

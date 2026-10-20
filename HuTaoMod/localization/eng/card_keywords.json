@@ -1,0 +1,10 @@
+{
+    "HUTAOMOD-HUAN_YANG.title":  "Return",
+    "HUTAOMOD-HUAN_YANG.description":  "Put cards from the top of your discard pile on top of your draw pile and give them Spirit.",
+    "HUTAOMOD-SPIRIT.title":  "Spirit",
+    "HUTAOMOD-SPIRIT.description":  "When this card is played, its effect is empowered once: Attacks deal +50% damage, Skills apply +1 stack, and it costs 1 less. After being played it becomes Spirit (Spent).",
+    "HUTAOMOD-SPIRIT_SPENT.title":  "Spirit (Spent)",
+    "HUTAOMOD-SPIRIT_SPENT.description":  "This card's Spirit has already been spent, so it is no longer empowered. It still counts as a Spirit card when drawn (Fate's Journey and similar cards gain Energy from it).",
+    "HUTAOMOD-SAMSARA.title":  "Samsara",
+    "HUTAOMOD-SAMSARA.description":  "At the start of your turn, gain 2x stacks Block, then halve your stacks. Some cards spend stacks to deal damage."
+}

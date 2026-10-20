@@ -1,0 +1,10 @@
+{
+    "HUTAOMOD-HUAN_YANG.title":  "还阳",
+    "HUTAOMOD-HUAN_YANG.description":  "从弃牌堆顶取牌放回抽牌堆顶，并赋予「灵」。",
+    "HUTAOMOD-SPIRIT.title":  "灵",
+    "HUTAOMOD-SPIRIT.description":  "这张牌被打出时效果强化一次：攻击伤害 +50%，技能施加的层数 +1，费用 -1。打出后变为「灵·已消耗」。",
+    "HUTAOMOD-SPIRIT_SPENT.title":  "灵·已消耗",
+    "HUTAOMOD-SPIRIT_SPENT.description":  "这张牌的「灵」已经被打出消耗，不再获得强化；但抽到它时仍然算作「带灵牌」（命途逆旅等卡牌会因此获得能量）。",
+    "HUTAOMOD-SAMSARA.title":  "轮回",
+    "HUTAOMOD-SAMSARA.description":  "回合开始时获得 2×层数 点格挡，然后层数减半。部分卡牌会消耗层数造成伤害。"
+}
