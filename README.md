@@ -10,7 +10,7 @@
 3. 把压缩包里的 `HuTaoMod` 文件夹解压到 `Slay the Spire 2/mods/`
 4. 启动游戏，在角色选择里选「胡桃」
 
-> 也可以下载带前置的一体包（`*-含BaseLib.zip`），把这一个包里的 `BaseLib` 和 `HuTaoMod` 一起放进 `mods/` 即可。
+> 也可以下载带前置的一体包（`*-with-BaseLib.zip`），把这一个包里的 `BaseLib` 和 `HuTaoMod` 一起放进 `mods/` 即可。
 
 
 ## 许可与声明
